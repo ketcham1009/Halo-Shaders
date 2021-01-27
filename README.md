@@ -1,2 +1,2 @@
 # Halo-Shaders
-Shaders for imported Halo assets in unity
+Shaders for Halo assets imported into unity
